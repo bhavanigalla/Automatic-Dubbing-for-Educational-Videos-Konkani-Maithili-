@@ -48,3 +48,27 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+
+
+
+
+\## 📸 Screenshots
+
+
+
+\### 🔹 Upload Video
+
+!\[Upload Screen](images/screenshot1.png)
+
+
+
+\### 🔹 Processing
+
+!\[Processing](images/screenshot2.png)
+
+
+
+\### 🔹 Output Video
+
+!\[Output](images/screenshot3.png)
+
